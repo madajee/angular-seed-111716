@@ -1,0 +1,8 @@
+{
+  "name": "angular-seed-111716",
+  "description": "Angular Seed App",
+  "license": "MIT",
+  "devDependencies": {
+    "angular": "1.5.x"
+  }
+}
