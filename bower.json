@@ -3,6 +3,7 @@
   "description": "Angular Seed App",
   "license": "MIT",
   "devDependencies": {
-    "angular": "1.5.x"
+    "angular": "1.5.x",
+    "angular-mocks": "1.5.x"
   }
 }
