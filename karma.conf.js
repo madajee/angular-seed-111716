@@ -7,8 +7,10 @@ module.exports = function(config) {
     files: [
       'bower_components/angular/angular.js',
       'bower_components/angular-mocks/angular-mocks.js',
-      'app.js',
-      'app.spec.js'
+      'app.module.js',
+      'phone-list/phone-list.module.js',
+      'phone-list/phone-list.component.js',
+      'phone-list/phone-list.component.spec.js'
     ],
 
     autoWatch: true,
